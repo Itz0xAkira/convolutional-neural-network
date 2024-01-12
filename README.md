@@ -1,3 +1,40 @@
+# Convolutional Neural Network (CNN) Project
+
+## Overview
+
+The **Convolutional Neural Network (CNN) Project** is a comprehensive example showcasing the implementation of a convolutional neural network for image classification tasks. CNNs have proven to be highly effective in image-related tasks, making them a popular choice for computer vision applications.
+
+### Key Features
+
+1. **Transfer Learning:** The project leverages the power of transfer learning by utilizing the ResNet152V2 architecture, a pre-trained deep neural network, to enhance the model's performance on image classification tasks.
+
+2. **Data Processing:** Efficient data processing techniques are implemented in the `data_processing.py` module to handle image loading, preprocessing, and dataset splitting.
+
+3. **Model Building:** The `model_building.py` module contains functions for creating and compiling a CNN model based on the ResNet152V2 architecture. It also includes utilities for setting up callbacks and evaluating the model.
+
+4. **Visualization:** The `visualization.py` module offers visualization tools to display class distribution, sample images, training/validation accuracy and loss curves, confusion matrix, and more.
+
+5. **Flexible Structure:** The project follows a modular structure, making it easy to understand, extend, and customize. The main script, `main.py`, serves as the entry point for running the entire project.
+
+### How to Use
+
+1. **Clone the Repository:**
+   ```bash
+   git clone https://github.com/yourusername/cnn-project.git
+   cd cnn-project```
+
+2. **Install Dependencies:**
+   ```bash
+    pip install -r requirements.txt```
+
+3. **Run the Project:**
+   ```bash
+    python main.py```
+
+### Dependencies
+
+The project relies on popular deep learning libraries such as TensorFlow, NumPy, Pandas, and visualization tools like Seaborn and Plotly. These dependencies are listed in the requirements.txt file.
+
 [**The IQ-OTH/NCCD Lung Cancer Dataset on Kaggle**](https://www.kaggle.com/datasets/hamdallak/the-iqothnccd-lung-cancer-dataset)
 
 **Dataset Information**
