@@ -20,8 +20,7 @@ The **Convolutional Neural Network (CNN) Project** is a comprehensive example sh
 
 1. **Clone the Repository:**
    ```bash
-   git clone https://github.com/yourusername/cnn-project.git
-   cd cnn-project
+   git clone https://github.com/Itz0xAkira/convolutional-neural-network.git
 
 2. **Install Dependencies:**
    ```bash
