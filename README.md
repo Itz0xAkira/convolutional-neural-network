@@ -21,15 +21,15 @@ The **Convolutional Neural Network (CNN) Project** is a comprehensive example sh
 1. **Clone the Repository:**
    ```bash
    git clone https://github.com/yourusername/cnn-project.git
-   cd cnn-project```
+   cd cnn-project
 
 2. **Install Dependencies:**
    ```bash
-    pip install -r requirements.txt```
+    pip install -r requirements.txt
 
 3. **Run the Project:**
    ```bash
-    python main.py```
+    python main.py
 
 ### Dependencies
 
